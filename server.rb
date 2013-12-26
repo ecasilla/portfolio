@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'sinatra/reloader'
+require 'sinatra/reloader' 
 require 'pry'
 
 get "/" do
@@ -11,17 +11,17 @@ get "/about" do
 end
 
 get "/resume" do
-  erb :welcome
+  erb :resume
 end
 
 get "/contact" do
-  erb :welcome
+  erb :contact
 end
 
 post "/contact" do
-  erb :welcome
+  erb :contact
 end
 
 get "/portfolio" do
-  erb :welcome
+  erb :portfolio
 end

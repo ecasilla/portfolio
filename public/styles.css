@@ -1,0 +1,7 @@
+.nav { 
+  display: -webkit-inline-box;
+  text-decoration: underline;
+  margin: 10px;
+  padding: 10px;
+  background-color: gray;
+}
