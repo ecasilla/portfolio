@@ -183,7 +183,7 @@ hr {
     padding-top: 60px;
     padding-bottom: 60px;
     color: white;
-  } 
+  }
 
   #intro h5, p {
     color: white;
@@ -244,7 +244,9 @@ hr {
     color: white
   }
 
-
+  #mailman{
+    background: url(https://www.dropbox.com/s/dc17tsl5pfenpiw/MAILMAN%20LOGO.png)
+  }
 
   /* Global Values */
 
