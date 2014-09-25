@@ -271,7 +271,8 @@ hr {
 
   .desc more {
     color: #95a5a6;
-  }
+    font-weight:400;
+    }
 
 
   sm {
@@ -281,5 +282,3 @@ hr {
   .keygreen{
     color: #1abc9c
   }
-
-
